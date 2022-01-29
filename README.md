@@ -10,9 +10,11 @@ You can reach me SNOOT#7514 on Discord, @SnootMan69 on Twitter.
 - Websites
 - HTML video players
 
-`My favorite achievements`
+# `My favorite achievements`
 - fixed a problem on a template for electron [here](https://github.com/NovaAppsInc/electron-seamless-titlebar-tutorial)
-- The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF)
+- The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF) (still being worked on)
+- Made a proxy website [Fracital](https://github.com/NovaAppsInc/fracital-proxy)
+- Made an NSFW Discord bot 
 
 [![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&theme=apprentice&layout=compact)](https://github.com/NovaAppsInc)
 
