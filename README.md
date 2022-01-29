@@ -8,6 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice)](https://github.com/NovaAppsInc)
 
-[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice&repo=fracital-proxy)](https://github.com/NovaAppsInc;/fracital-proxy)
+[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice&repo=fracital-proxy)](https://github.com/NovaAppsInc/fracital-proxy)
 
 [![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice&repo=nGIF)](https://github.com/NovaAppsInc/nGIF)
