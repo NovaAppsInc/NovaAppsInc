@@ -5,7 +5,7 @@ I’m interested in UI design, Frontend, Backend, software development.
 You can reach me SNOOT#7514 on Discord, @SnootMan69 on Twitter.
 
 # `things I have made`
-- Software in C# and with software with electron
+- Software in C# and with electron
 - Discord bots
 - Websites
 - HTML video players
