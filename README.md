@@ -1,4 +1,4 @@
-I’m @NovaAppsInc or SNOOT or CAESARSNOOT is my alt GitHub.
+I’m @NovaAppsInc or SNOOT.
 
 I’m interested in UI design, Frontend, Backend, software development.
 
