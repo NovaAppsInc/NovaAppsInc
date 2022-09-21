@@ -2,7 +2,7 @@ I’m @NovaAppsInc or SNOOT.
 
 I’m interested in UI design, Frontend, Backend, software development.
 
-You can reach me SNOOT#7514 on Discord, @SnootMan69 on Twitter.
+[![Discord Presence](https://lanyard.cnrad.dev/api/520334606206107653)](https://discord.com/users/520334606206107653)
 
 # `things I have made`
 - Software in C# and with electron
