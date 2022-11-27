@@ -30,3 +30,5 @@ I’m interested in UI design, Frontend, Backend, software development.
 [![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice&repo=fracital-proxy)](https://github.com/NovaAppsInc/fracital-proxy)
 
 [![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&theme=apprentice&repo=nGIF)](https://github.com/NovaAppsInc/nGIF)
+
+[![terbium](https://github-readme-stats.vercel.app/api/pin/?username=TerbiumOS&layout=compact&show_icons=true&theme=apprentice&repo=webOS)](https://github.com/TerbiumOS/webOS)
