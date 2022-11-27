@@ -11,14 +11,16 @@ I’m interested in UI design, Frontend, Backend, software development.
 - HTML video players
 
 # `My favorite achievements`
-- fixed a problem on a template for electron [here](https://github.com/NovaAppsInc/electron-seamless-titlebar-tutorial)
-- The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF) (still being worked on)
-- Made a proxy website [Fracital](https://github.com/NovaAppsInc/fracital-proxy)
+- Made [Almond Viewer](https://almond-viewer.snootman.ga)
+- Fixed a problem on a template for electron [here](https://github.com/NovaAppsInc/electron-seamless-titlebar-tutorial)
+- The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF) (not being worked on atm)
+- Made a proxy website [Fracital](https://github.com/NovaAppsInc/fracital-proxy) (not being maintained)
 - Made an NSFW Discord bot
 - Building a nice HTML video player (and hopefully a new video service) [almondLAN](https://almondlan.ga)
-- Made (making) a webOS [Terbium](https://terbium.ga)
+- Making a webOS [Terbium](https://terbiumux.net)
 - Got into the Nebula dev team
-- Built a UI for the Nebula team's [Cyclone](https://ant-network.net/) proxy
+- Got into the TitaniumNetwork team
+- Built a UI for the Nebula team's Cyclone proxy
 - Built the prototype UI for the [Tenoqu website](https://snootman.ga/tenoqu)
 
 [![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&theme=apprentice&layout=compact)](https://github.com/NovaAppsInc)
