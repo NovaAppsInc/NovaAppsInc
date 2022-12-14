@@ -11,7 +11,7 @@ I’m interested in UI design, Frontend, Backend, software development.
 - HTML video players
 
 # `My favorite achievements`
-- Made [Almond Viewer](https://almond-viewer.snootman.ga)
+- Made Almond Viewer
 - Fixed a problem on a template for electron [here](https://github.com/NovaAppsInc/electron-seamless-titlebar-tutorial)
 - The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF) (not being worked on atm)
 - Made a proxy website [Fracital](https://github.com/NovaAppsInc/fracital-proxy) (not being maintained)
