@@ -21,7 +21,7 @@ I’m interested in UI design, Frontend, Backend, software development.
 - Got into the Nebula dev team
 - Got into the TitaniumNetwork team
 - Built a UI for the Nebula team's Cyclone proxy
-- Built the prototype UI for the [Tenoqu website](https://snootman.ga/tenoqu)
+- Built the prototype UI for the [Tenoqu website](https://snootui.xyz/tenoqu/)
 
 [![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&theme=apprentice&layout=compact&border_color=#222222)](https://github.com/NovaAppsInc)
 
