@@ -23,12 +23,12 @@ I’m interested in UI design, Frontend, Backend, software development.
 - Built a UI for the Nebula team's Cyclone proxy
 - Built the prototype UI for the [Tenoqu website](https://snootui.xyz/tenoqu/)
 
-[![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&layout=compact&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece)](https://github.com/NovaAppsInc)
+[![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&layout=compact&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357&ring_color=36b357&custom_title=Snoot's Stats&rank_icon=percentile)](https://github.com/NovaAppsInc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaAppsInc&layout=compact&show_icons=true&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece)](https://github.com/NovaAppsInc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaAppsInc&layout=compact&show_icons=true&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc)
 
-[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=fracital-proxy&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece)](https://github.com/NovaAppsInc/fracital-proxy)
+[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=fracital-proxy&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc/fracital-proxy)
 
-[![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=nGIF&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece)](https://github.com/NovaAppsInc/nGIF)
+[![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=nGIF&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc/nGIF)
 
-[![terbium](https://github-readme-stats.vercel.app/api/pin/?username=TerbiumOS&layout=compact&show_icons=true&repo=webOS&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cece)](https://github.com/TerbiumOS/webOS)
+[![terbium](https://github-readme-stats.vercel.app/api/pin/?username=TerbiumOS&layout=compact&show_icons=true&repo=webOS&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cece&title_color=36b357)](https://github.com/TerbiumOS/webOS)
