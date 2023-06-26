@@ -27,8 +27,8 @@ I’m interested in UI design, Frontend, Backend, software development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaAppsInc&layout=compact&show_icons=true&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc)
 
-[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=fracital-proxy&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc/fracital-proxy)
+[![fracital](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=fracital-proxy&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357&show_owner=true)](https://github.com/NovaAppsInc/fracital-proxy)
 
-[![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=nGIF&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357)](https://github.com/NovaAppsInc/nGIF)
+[![nGIF](https://github-readme-stats.vercel.app/api/pin/?username=NovaAppsInc&layout=compact&show_icons=true&repo=nGIF&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357&show_owner=true)](https://github.com/NovaAppsInc/nGIF)
 
-[![terbium](https://github-readme-stats.vercel.app/api/pin/?username=TerbiumOS&layout=compact&show_icons=true&repo=webOS&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cece&title_color=36b357)](https://github.com/TerbiumOS/webOS)
+[![terbium](https://github-readme-stats.vercel.app/api/pin/?username=TerbiumOS&layout=compact&show_icons=true&repo=webOS&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cece&title_color=36b357&show_owner=true)](https://github.com/TerbiumOS/webOS)
