@@ -11,17 +11,12 @@ I’m interested in UI design, Frontend, Backend, software development.
 - HTML video players
 
 # `My favorite achievements`
-- Made Almond Viewer
+- Made Almond
 - Fixed a problem on a template for electron [here](https://github.com/NovaAppsInc/electron-seamless-titlebar-tutorial)
 - The long time making of my first software [nGIF](https://github.com/NovaAppsInc/nGIF) (not being worked on atm)
 - Made a proxy website [Fracital](https://github.com/NovaAppsInc/fracital-proxy) (not being maintained)
-- Made an NSFW Discord bot
 - Building a nice HTML video player (and hopefully a new video service) [almondLAN](https://almond.snootui.xyz)
-- Making a webOS [Terbium](https://terbiumux.net)
-- Got into the Nebula dev team
-- Got into the TitaniumNetwork team
-- Built a UI for the Nebula team's Cyclone proxy
-- Built the prototype UI for the [Tenoqu website](https://snootui.xyz/tenoqu/)
+- Made a webOS (legacy) [Terbium](https://github.com/TerbiumOS/webOS)
 
 [![Bing Bong GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaAppsInc&show_icons=true&layout=compact&border_color=36b357&bg_color=222222&icon_color=36b357&text_color=cecece&title_color=36b357&ring_color=36b357&custom_title=Snoot's%20Stats&rank_icon=percentile)](https://github.com/NovaAppsInc)
 
