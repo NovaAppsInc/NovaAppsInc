@@ -1,8 +1,12 @@
-I’m @NovaAppsInc or SNOOT.
+# I’m @NovaAppsInc or SNOOT.
 
 I’m interested in UI design, Frontend, Backend, software development.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/520334606206107653)](https://discord.com/users/520334606206107653)
+
+# Support me on Ko-fi
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G21FWGXO)
 
 # `things I have made`
 - Software in C# and with electron
